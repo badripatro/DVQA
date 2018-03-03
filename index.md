@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Differential Attention for Visual Question Answering
 
 You can use the [editor on GitHub](https://github.com/badripatro/DVQA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
