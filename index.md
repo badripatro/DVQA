@@ -38,18 +38,16 @@ In this figure, the first column indicates target question and corresponding ima
 
 ![3](images/Att_vis_final.png)
 
-#### Attention Visualization with Supporting and opposing Exemplar
+#### Attention Visualization with Supporting and Opposing Exemplar
 
 In this figure, the first	row indicates the given target image, supporting image and opposing image. second row indicates the attention map for human, reference attention map, supporting attention map , opposing attention map, DAN and DCN attention map respectively. Third row generates result by applying attention map on corresponding images.
 
 ![2](images/DCN_DAN_final_result.png)
 ***
 ![5](images/DCN_DAN_final_result_2.png)
----
+***
 ![4](images/DCN_DAN_final_result_1.png)
-
-
-
+---
 
 
 ### Attention visualization of DCN with various Human Attention Maps 
@@ -65,7 +63,7 @@ DCN Attention Map with  all ground truth three human attentions. The first row p
 Attention Result for DAN and DCN. In this figure, the first column indicates target question and corresponding image, second column indicates reference human attention map in HAT dataset, third column refer to generated attention map for SAN, fourth column refers to rank correlation of our DAN model and final column refers to rank correlation for our DCN model.
 
 ![5](images/Att_vis_pos_new_1.png)
-___
+***
 ![5](images/Att_vis_pos_new_2.png)
 
 ####  How important are the supporting and contrasting exemplar?
