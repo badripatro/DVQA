@@ -8,23 +8,23 @@ In this paper we aim to answer questions based on images when provided with a da
 -   We evaluate two variants for obtaining differential attention - one where we only obtain attention and the other where we obtain differential context in addition to attention
 -    We show that this method correlates better with human attention and results in an improved visual question answering that improves the state-of-the-art for image based attention methods. It is also competitive with respect to other proposed methods for this problem.
 
-###Introduction
+### Introduction
 
 ![](images/cvpr_intro.png) 
 
-###VQA Models
+### VQA Models
 
-####DAN Model 
+#### DAN Model 
 
 ![](images/cvpr_DAN.png) 
 
-####DCN Model 
+#### DCN Model 
 
 ![](images/cvpr_DCN.png) 
 
 
 
-###Results
+### Results
 ![](images/vqa_1.png) 
 ![](DCN_DAN_final_result.png)
 ![](Att_vis_final.png)
