@@ -25,15 +25,15 @@ In this paper we aim to answer questions based on images when provided with a da
 
 
 ### Results
-![](images/vqa_1.png) 
+![1](images/vqa_1.png) 
 
-![](DCN_DAN_final_result.png)
+![2](images/DCN_DAN_final_result.png)
 
-![](Att_vis_final.png)
+![3](images/Att_vis_final.png)
 
-![](DCN_DAN_final_result_1.png)
+![4](images/DCN_DAN_final_result_1.png)
 
-![](DCN_DAN_final_result_2.png)
+![5](images/DCN_DAN_final_result_2.png)
 
 
 # Header 1
