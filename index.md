@@ -2,7 +2,8 @@
 Badri Patro,Vinay P. Namboodiri
 
 
-[[https://github.com/badripatro/DVQA/image/cvpr_intro.pdf|alt=octocat]]
+[[https://github.com/badripatro/DVQA/images/cvpr_intro.pdf|alt=octocat]]
+[[https://github.com/badripatro/DVQA/images/vqa_1.png|alt=octocat]]
 You can use the [editor on GitHub](https://github.com/badripatro/DVQA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
