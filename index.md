@@ -37,9 +37,29 @@ In this paper we aim to answer questions based on images when provided with a da
 
 
 # Header 1
-## Header 2
-### Header 3
+####  How important are the supporting and contrasting exemplar?
+ We carried out an experiment by considering only the supportive exemplar in triplet loss mentioned in equation-2 and obtained consistent result as shown in figure~\ref{fig:a1}. From the rank correlation result, we can conclude that, If we use only the supportive exemplar, we obtain most of the gain in the performance. The quantitative results for this ablation analysis is shown in the table ~\ref{DAN_rank_correlation}, which provides  the rank correlation on HAT Validation Dataset.
+![3](images/cvpr_rebuttal_attention_v2_final.png)
 
+Importance of Supporting exemplar vs both. the first column in the figure indicates about image and corresponding question, the second  and third term indicates attention map for supporting exemplar and both supporting and opposing exemplar. The fourth and fifth column gives the value of rank correlation for supporting and both.
+
+
+#### Contribution of different term in DCN
+ We carried out an experiment by dropping the vector projection of $s_i^-$ on $s_i$ term in the supporting context $r_i^+$ as mentioned in equation-3 and the vector rejection of $s_i^+$ on $s_i$ term in opposing context $r_i^-$ as mentioned in equation-4 and obtained consistent result as shown in  figure~\ref{fig:a2}.
+ The contribution of these terms in the corresponding equations are very small.The quantitative results for this ablation analysis is shown in the table ~\ref{DCN_rank_correlation}, which provides  the rank correlation on HAT Validation Dataset.
+![3](images/cvpr_rebuttal_v1_final.png)
+ Ablation Results for Dropping  terms in equation 3 and 4. The first column indicate the target image and its question, The second column provides the attention map \& rank correlation by dropping $2^{nd}$ in equation 3 \& $i^{st}$  term in equation 4. The third column gives the attention map \& rank correlation by dropping only  $i^{st}$  term in equation 4. Final column provides the attention map \& rank correlation by consider every thing in both the equation.
+
+
+## Header 2
+
+![5](images/hat_val_123_1.png)
+
+![5](images/hat_val_123.png)
+### Header 3
+![5](images/Att_vis_pos_new_1.png)
+
+![5](images/Att_vis_pos_new_2.png)
 - Bulleted
 - List
 
