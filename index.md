@@ -7,8 +7,8 @@ Badri Patro,Vinay P. Namboodiri
 -    We show that this method correlates better with human attention and results in an improved visual question answering that improves the state-of-the-art for image based attention methods. It is also competitive with respect to other proposed methods for this problem.
 
 ### Introduction
-
-![](images/cvpr_intro.png|width=80) 
+<img src="images/cvpr_intro.png" width="200">
+![](images/cvpr_intro.png) 
 
 Illustration of improved attention obtained using Differential Context Network. Using the baseline reference we got answer as: ``Black and White'' But, using our methods DAN or DCN we get answer as ``Brown and White'', that is actually the color of the cow. We provide the attention map that indicates the actual improvement in attention.
 
