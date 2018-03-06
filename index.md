@@ -9,7 +9,7 @@ Badri Patro,Vinay P. Namboodiri
 ### Introduction
 
 <p align="center">
- <img src="images/cvpr_intro.png" width="400">
+ <img src="images/cvpr_intro.png" width="600">
 </p>
 
 Illustration of improved attention obtained using Differential Context Network. Using the baseline reference we got answer as: ``Black and White`` But, using our methods DAN or DCN we get answer as ``Brown and White``, that is actually the color of the cow. We provide the attention map that indicates the actual improvement in attention.
