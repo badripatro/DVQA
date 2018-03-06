@@ -10,6 +10,13 @@ Badri Patro,Vinay P. Namboodiri
 ![](DCN_DAN_final_result_1.png)
 ![](DCN_DAN_final_result_2.png)
 
+
+\begin{itemize}
+    \item We adopt an exemplar based approach to improve visual question answering (VQA) methods by providing a differential attention
+    \item We evaluate two variants for obtaining differential attention - one where we only obtain attention and the other where we obtain differential context in addition to attention
+    \item We show that this method correlates better with human attention and results in an improved visual question answering that improves the state-of-the-art for image based attention methods. It is also competitive with respect to other proposed methods for this problem.
+\end{itemize}
+
 You can use the [editor on GitHub](https://github.com/badripatro/DVQA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
