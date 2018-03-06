@@ -2,7 +2,7 @@
 Badri Patro,Vinay P. Namboodiri
 
 ![](images/vqa_1.png) 
-[](images/cvpr_intro.png) 
+![](images/cvpr_intro.png) 
 
 
 
