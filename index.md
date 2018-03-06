@@ -3,8 +3,12 @@ Badri Patro,Vinay P. Namboodiri
 
 ![](images/vqa_1.png) 
 ![](images/cvpr_intro.png) 
-
-
+![](images/cvpr_DAN.png) 
+![](images/cvpr_DCN.png) 
+![](DCN_DAN_final_result.png)
+![](Att_vis_final.png)
+![](DCN_DAN_final_result_1.png)
+![](DCN_DAN_final_result_2.png)
 
 You can use the [editor on GitHub](https://github.com/badripatro/DVQA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
