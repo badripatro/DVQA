@@ -44,10 +44,11 @@ In this figure, the first	row indicates the given target image, supporting image
 
 ![2](images/DCN_DAN_final_result.png)
 ***
-<span style="color:blue">***</span>
+
 
 ![5](images/DCN_DAN_final_result_2.png)
 ***
+
 ![4](images/DCN_DAN_final_result_1.png)
 ***
 
@@ -58,6 +59,7 @@ DCN Attention Map with  all ground truth three human attentions. The first row p
 
 ![5](images/hat_val_123_1.png)
 ***
+
 ![5](images/hat_val_123.png)
 
 ### Attention Visualization of DAN and DCN 
@@ -66,6 +68,7 @@ Attention Result for DAN and DCN. In this figure, the first column indicates tar
 
 ![5](images/Att_vis_pos_new_1.png)
 ***
+
 ![5](images/Att_vis_pos_new_2.png)
 
 ####  How important are the supporting and contrasting exemplar?
