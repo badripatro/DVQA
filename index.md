@@ -44,6 +44,8 @@ In this figure, the first	row indicates the given target image, supporting image
 
 ![2](images/DCN_DAN_final_result.png)
 ***
+<span style="color:red">some **This is Red Bold.** text</span>
+
 ![5](images/DCN_DAN_final_result_2.png)
 ***
 ![4](images/DCN_DAN_final_result_1.png)
