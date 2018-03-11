@@ -43,14 +43,17 @@ In this figure, the first column indicates target question and corresponding ima
 In this figure, the first	row indicates the given target image, supporting image and opposing image. second row indicates the attention map for human, reference attention map, supporting attention map , opposing attention map, DAN and DCN attention map respectively. Third row generates result by applying attention map on corresponding images.
 
 ![2](images/DCN_DAN_final_result.png)
-***
+
+---
 
 
 ![5](images/DCN_DAN_final_result_2.png)
+
 ***
 
 ![4](images/DCN_DAN_final_result_1.png)
-***
+
+___
 
 
 ### Attention visualization of DCN with various Human Attention Maps 
