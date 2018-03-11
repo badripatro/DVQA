@@ -61,7 +61,8 @@ ________________________________________________________________________________
 DCN Attention Map with  all ground truth three human attentions. The first row provides results for the human attention map-1 for HAT dataset. The second row and third row  provides results for the human attention map-2 and human attention map-3. Similar results for another example.
 
 ![5](images/hat_val_123_1.png)
-***
+
+________________________________________________________________________________________________________________________
 
 ![5](images/hat_val_123.png)
 
@@ -70,7 +71,8 @@ DCN Attention Map with  all ground truth three human attentions. The first row p
 Attention Result for DAN and DCN. In this figure, the first column indicates target question and corresponding image, second column indicates reference human attention map in HAT dataset, third column refer to generated attention map for SAN, fourth column refers to rank correlation of our DAN model and final column refers to rank correlation for our DCN model.
 
 ![5](images/Att_vis_pos_new_1.png)
-***
+
+________________________________________________________________________________________________________________________
 
 ![5](images/Att_vis_pos_new_2.png)
 
