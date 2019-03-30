@@ -1,4 +1,4 @@
-## Differential Attention for Visual Question Answering
+## Differential Attention for Visual Question Answering [[Paper: CVPR-2018](http://openaccess.thecvf.com/content_cvpr_2018/html/3451.html)]
 Badri Patro,Vinay P. Namboodiri
 
 ### Motivation
@@ -89,5 +89,17 @@ Importance of Supporting exemplar vs both. the first column in the figure indica
 
  Ablation Results for Dropping  terms in equation 3 and 4. The first column indicate the target image and its question, The second column provides the attention map \& rank correlation by dropping $2^{nd}$ in equation 3 \& $i^{st}$  term in equation 4. The third column gives the attention map \& rank correlation by dropping only  $i^{st}$  term in equation 4. Final column provides the attention map \& rank correlation by consider every thing in both the equation.
 
+
+### Reference
+
 ```
 
+@InProceedings{Patro_2018_CVPR,
+author = {Patro, Badri and Namboodiri, Vinay P.},
+title = {Differential Attention for Visual Question Answering},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+} 
+
+```
