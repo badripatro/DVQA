@@ -2,7 +2,7 @@
 
 -- [[Project Page](https://badripatro.github.io/DVQA/)]
 
--- [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/3451.html)]
+-- [[Paper: CVPR-2018 ](http://openaccess.thecvf.com/content_cvpr_2018/html/3451.html)]
 
 ## Motivation
 -   We adopt an exemplar based approach to improve visual question answering (VQA) methods by providing a differential attention.
